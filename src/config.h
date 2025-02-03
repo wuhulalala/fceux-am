@@ -1,7 +1,7 @@
 #ifndef __CONFIG_H__
 #define __CONFIG_H__
 
-#define HAS_GUI
+#define HAS_GUI 1
 #define SIZE_OPT
 
 #define SOUND_NONE 0
